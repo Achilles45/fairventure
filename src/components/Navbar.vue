@@ -3,7 +3,7 @@
       <div class="container">
           <div class="navbar__content d-flex justify-content-between align-items-center">
               <div class="logo pt-2">
-                  <router-link to="/" class="logo"><h2><i class="fa fa-wallet"></i> Fair <span class="logo__span">Venture</span></h2></router-link>
+                  <router-link to="/" class="logo"><img src="../assets/images/logo4.jpg" class="logo__img" alt=""></router-link>
               </div>
               <div class="menu">
                   <ul class="d-flex justify-content-between pt-3">
@@ -73,7 +73,7 @@ export default {
                 color: $secondary-color;
             }
             .logo__img{
-                max-width: 280px;
+                max-width: 80px;
                 height: auto;
             }
         }

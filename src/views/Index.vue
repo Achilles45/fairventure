@@ -35,7 +35,7 @@ export default {
     Intro,
     Features,
     Process,
-    // Gallery,
+    Gallery,
     Counter,
     Testimonial,
     AppBanner,
