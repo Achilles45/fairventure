@@ -29,7 +29,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-12">
-                      <p>Fair venture Investment Limited &copy; All Right Reserved, 2020</p>
+                      <p>Fair venture Investment Company &copy; All Right Reserved, 2020</p>
                   </div>
               </div>
           </div>

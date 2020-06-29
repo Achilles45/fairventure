@@ -16,7 +16,7 @@
           <div class="col-md-1"></div>
           <div class="col-md-10 heading text-center">
             <h1>We provide you with investment opportunities</h1>
-            <p>Fair Venture limited was created with the aim of eliminating poverty and hardship from Nigeria. It's a reliable and genuine platform created for the benefit of every Nigerian to achieve wealth and happiness by investing and getting back your investment in 5 days and 24hours without any delay or stress in payment.</p>
+            <p>Fair Venture Investment Company was created with the aim of eliminating poverty and hardship from Nigeria. It's a reliable and genuine platform created for the benefit of every Nigerian to achieve wealth and happiness by investing and getting back your investment in 5 days and 24hours without any delay or stress in payment.</p>
           </div>
           <div class="col-md-1"></div>
         </div>

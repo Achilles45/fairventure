@@ -2,16 +2,17 @@
   <div class="intro">
      <div class="container">
           <div class="row">
-          <div class="col-md-6 image__holder">
-              <img src="../assets/images/img2.svg" class="img-fluid image" alt=""><br><br>
+          <div class="col-md-2 image__holder">
+              <!-- <img src="../assets/images/img2.svg" class="img-fluid image" alt=""><br><br> -->
           </div>
-          <div class="col-md-1"></div>
-          <div class="col-md-5">
-              <h2>Fair <span class="orange">Venture Company</span></h2>
+          <!-- <div class="col-md-1"></div> -->
+          <div class="col-md-8 text-center">
+              <h2>About Fair Venture Company</h2>
               <hr>
-              <p>Fair Venture Limited was created with the aim of eliminating poverty and hardship from Nigeria. It's a reliable and genuine platform created for the benefit of every Nigerian to achieve wealth and happiness by investing and getting back your investment in 4 days and 24hours without any delay or stress in payment</p>
+              <p>Fair Venture Investment Company was created with the aim of eliminating poverty and hardship from Nigeria. It's a reliable and genuine platform created for the benefit of every Nigerian to achieve wealth and happiness by investing and getting back your investment in 4 days and 24hours without any delay or stress in payment <br> Fair Venture Investment Company is real and sincere and we shall duly deliver good result. </p>
                <router-link to="/signup" class="intro-btn animated zoomIn animate3d">Get Started <i class="fas fa-long-arrow-alt-right"></i> </router-link>
           </div>
+          <div class="col-md-2"></div>
       </div>
      </div>
   </div>
